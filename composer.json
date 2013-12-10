@@ -1,0 +1,11 @@
+{
+    "name": "vendor/phingLG",
+    "require": {
+        "phing/phing": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "plg": "lib/"
+        }
+    }
+}
